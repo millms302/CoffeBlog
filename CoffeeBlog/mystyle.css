@@ -1,0 +1,71 @@
+body{
+    font-family: Arial;
+}
+img{
+    max-width: 100%;
+}
+p{
+    line-height: 2;
+}
+/*header*/
+header{
+    background-image: url(./coffee-images-main/banner.jpg);
+    background-size: cover;
+    color: white;
+    text-align: center;
+    height: 300px;
+}
+
+/*main*/
+
+.btn-more{
+    display: inline-block;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    padding:20px;
+    margin-bottom: 20px;
+
+}
+.btn-info{
+    display: inline-block;
+    background-color: brown;
+    color: white;
+    text-decoration: none;
+    padding:20px;
+    margin-bottom:20px;
+}
+/*Footer*/
+footer{
+    background-color: black;
+    background-size: cover;
+    color: white;
+    text-align: center;
+    height: 100px;
+    
+}
+.btn-abt{
+    display: inline-block;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    padding: auto;
+
+}
+.btn-course{
+    display: inline-block;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    padding: auto;
+}
+.btn-contact{
+    display: inline-block;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    padding: auto;
+}
