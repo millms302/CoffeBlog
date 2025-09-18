@@ -1,0 +1,176 @@
+body{
+    font-family: Arial;
+    background-color: white;
+}
+img{
+    max-width: 100%;
+}
+p{
+    line-height: 2;
+    flex-wrap: center;
+    width: 60%;
+
+}
+/*header*/
+header{
+    background-image: url(./coffee-images-main/banner.jpg);
+    background-size: cover;
+    color: white;
+    text-align: center;
+    height: 300px;
+    max-width: 100%;
+}
+*{
+    margin:0;
+    padding:0;
+}
+
+/*main*/
+
+main{
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+
+}
+
+/*Buttons*/
+.btn-more{
+    display: inline-block;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    padding:20px;
+    margin-bottom: 20px;
+
+}
+.btn-info{
+    display: inline-block;
+    background-color: brown;
+    color: white;
+    text-decoration: none;
+    padding:10px 20px;
+    font-size: 14px;
+    border: none;
+    cursor: pointer;
+    line-height: 1;
+    margin-top: -10px;
+    margin-bottom: 20px;
+
+}
+/*Footer*/
+footer{
+    background-color: black;
+    background-size: cover;
+    color: white;
+    text-align: center;
+    height: 100px;
+
+}
+.btn-abt{
+    display: inline-block;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    padding: auto;
+
+}
+.btn-course{
+    display: inline-block;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    padding: auto;
+}
+.btn-contact{
+    display: inline-block;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    padding: auto;
+}
+/*Section*/
+section{
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+/*ABOUT PAGE*/
+
+body{
+    font-family: Arial;
+    background-color: white;
+}
+ing{
+    max width: 100%;
+}
+
+/*Header*/
+header{
+    background-image: url(./coffee-images-main/banner.jpg);
+    background-size: cover;
+    color: white;
+    height: 300px;
+    max-width: 100%;
+}
+
+h1{
+    text-align: right:;
+}
+.menu-bar{
+    text-align: right;
+}
+
+/*buttons*/
+.btn-abt{
+    display:inline-block;
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.btn-course{
+     display:inline-block;
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.btn-contact{
+     display:inline-block;
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+/*footer*/
+.footer{
+    background-color: black;
+    background-size: cover;
+    color: white;
+    text-align: center;
+    height: 100px;
+}
+
+/*Contact*/
+
+textarea{
+    display: inline;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+}
+
+.btn-submit{
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+    margin-bottom: 20px;
+}
